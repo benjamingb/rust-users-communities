@@ -16,6 +16,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
   - [Italy](#italy)
   - [Mexico](#mexico)
   - [Peru](#peru)
+  - [Russia](#russia)
   - [Spain](#spain)
   - [USA](#usa)
   - [Uruguay](#uruguay)
@@ -35,6 +36,8 @@ Your contributions are always welcome! Please take a look at the [contribution g
 * [Telegram](https://t.me/RustMX) - Telegram users group
 ### Peru
 * [Telegram](https://t.me/rustperu) - Telegram users group
+### Russia
+* [Telegram](https://t.me/rustlang_ru) - Telegram users group
 ### Spain
 ### USA
 * New York
