@@ -18,6 +18,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
   - [Peru](#peru)
   - [Russia](#russia)
   - [Spain](#spain)
+  - [Ukraine](#ukraine)
   - [USA](#usa)
   - [Uruguay](#uruguay)
   - [Venezuela](#venezuela)
@@ -39,6 +40,13 @@ Your contributions are always welcome! Please take a look at the [contribution g
 ### Russia
 * [Telegram](https://t.me/rustlang_ru) - Telegram users group
 ### Spain
+### Ukraine
+* Lviv
+  * [Telegram](https://t.me/peerlab_lviv_rust) - Telegram users group
+* Odesa
+  * [Telegram](https://t.me/peerlab_odesa_rust) - Telegram users group
+* Kharkiv
+  * [Telegram](https://t.me/peerlab_kharkiv_rust) - Telegram users group
 ### USA
 * New York
   * Discord Channel 
