@@ -28,10 +28,28 @@ Your contributions are always welcome! Please take a look at the [contribution g
 ### Australia
 ### Brazil
 * [Telegram](https://t.me/rustlangbr) - Telegram users group
+* São Paulo
+  * [Meetup](https://www.meetup.com/Rust-Sao-Paulo-Meetup/) - Regional Meetup 
+* Porto Alegre
+  * [Meetup](https://www.meetup.com/Rust-in-POA/) - Regional Meetup    
+* Rio de Janeiro
+  * [Meetup](https://www.meetup.com/Rust-Rio/) - Regional Meetup 
 ### Canada
 ### China
 ### France
 ### Germany
+* Berlin
+  * [Meetup](https://www.meetup.com/Rust-Berlin/) - Regional Meetup
+* Frankfurt / Darmstadt
+  * [Meetup](https://www.meetup.com/Rust-Rhein-Main/) - Regional Meetup        
+* Hamburg
+  * [Meetup](https://www.meetup.com/Rust-Meetup-Hamburg/) - Regional Meetup        
+* Karlsruhe
+  * [Meetup](https://www.meetup.com/Rust-Hack-Learn-Karlsruhe/) - Regional Meetup        
+* Köln
+  * [Meetup](https://www.meetup.com/RustCologne/) - Regional Meetup        
+* München
+  * [Meetup](https://www.meetup.com/rust-munich/) - Regional Meetup        
 ### Italy
 ### Mexico
 * [Telegram](https://t.me/RustMX) - Telegram users group
